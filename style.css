@@ -1,6 +1,6 @@
 body{
 
-    color:green;/*cor da fonte*/
-    background-color:rgb(255, 255, 255);/*corde fundo*/
+    color:rgb(255, 255, 255);/*cor da fonte*/
+    background-color:rgb(0, 0, 0);/*corde fundo*/
     font-size: 24px;         /*tamanho da fonte*/
 }
