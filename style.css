@@ -4,3 +4,7 @@ body{
     background-color:rgb(0, 0, 0);/*corde fundo*/
     font-size: 24px;         /*tamanho da fonte*/
 }
+header{
+
+    border: solid 2px black; /*borda solida de px preta*/
+}
