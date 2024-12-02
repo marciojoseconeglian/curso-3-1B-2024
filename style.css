@@ -11,3 +11,9 @@ header{
     font-size: 32px;        /*tamanho da fonte*/
     color:rgb(rgb(17, 0, 255), green, blue)
 }
+
+section{
+background-color: rgb(52, 24, 233);
+padding-bottom: 80px;
+
+}
